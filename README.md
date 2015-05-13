@@ -1,3 +1,5 @@
+# getshipmass
+
 Get ship mass from eve wiki
 
 # Install
